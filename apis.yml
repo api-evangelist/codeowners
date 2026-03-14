@@ -1,0 +1,14 @@
+name: CODEOWNERS
+description: File defining individuals or teams responsible for code in a repository.
+  Used by GitHub and GitLab to automatically request reviews from designated owners
+  on pull requests.
+url: ''
+tags:
+- Code Review
+- Repository
+- Governance
+- Automation
+created: '2025'
+modified: '2025'
+apis: []
+common: []
