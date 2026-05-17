@@ -12,7 +12,7 @@ tags:
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
-x-type: standard
+kind: standard
 created: '2025-01-01'
 modified: '2026-04-26'
 position: Consumer
