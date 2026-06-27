@@ -102,7 +102,7 @@ common:
     url: https://learn.microsoft.com/en-us/azure/devops/repos/git/branch-policies
   - type: Sample
     url: https://github.com/dotnet/samples/blob/main/.github/CODEOWNERS
-  - type: Tool
+  - type: Tools
     url: https://github.com/mszostok/codeowners-validator
 maintainers:
   - FN: Kin Lane
