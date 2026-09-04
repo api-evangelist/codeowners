@@ -2,6 +2,7 @@ aid: codeowners
 url: >-
   https://raw.githubusercontent.com/api-evangelist/codeowners/refs/heads/main/apis.yml
 name: CODEOWNERS
+x-type: convention
 tags:
   - Access Control
   - Automation
@@ -37,7 +38,7 @@ access: 3rd-Party
 kind: standard
 created: '2025-01-01'
 modified: '2026-04-26'
-position: Consumer
+position: Consuming
 description: >-
   CODEOWNERS is the file format originally introduced by GitHub and later
   adopted by GitLab, Bitbucket Cloud, Gitea, and Azure Repos that lets a
